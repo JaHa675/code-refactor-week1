@@ -1,6 +1,8 @@
 # code-refactor-week1!
 
-
+Changed many div tags into semantic tags 
+Cleared up the css by combining identical sections
+Added an id tag to make a link work
 
 Link to website
 https://jaha675.github.io/code-refactor-week1/#social-media-marketing
